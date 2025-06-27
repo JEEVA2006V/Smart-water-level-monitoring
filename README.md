@@ -1,6 +1,7 @@
 **SMART WATER LEVEL MONITORING**  
 
 **OBJECTIVE**
+
 Design a system using an ultrasonic sensor and Arduino to detect and alert water levels.
 
 **COMPONENTS USED**
@@ -12,7 +13,7 @@ Design a system using an ultrasonic sensor and Arduino to detect and alert water
 5.Buzzer  
 6.Breadboard and jumper wires  
 
-**WOORKING**
+**WORKING**
 
 The ultrasonic sensor continuously measures the distance between the sensor and the water surface. Based on the measured water level:
 
