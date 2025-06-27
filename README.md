@@ -34,6 +34,7 @@ This system provides both visual (LEDs and LCD) and audio (buzzer) feedback for 
 **TOOLS USED**
 
 Wokwi Online Simulator
+
 Blynk IoT Platform
 
 
