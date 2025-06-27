@@ -29,4 +29,11 @@ This system provides both visual (LEDs and LCD) and audio (buzzer) feedback for 
 - Interfacing ultrasonic sensor with Arduino  
 - Using I2C LCD display to show real-time data  
 - Controlling multiple outputs based on sensor values  
-- Simulating real-world conditions in Wokwi  
+- Simulating real-world conditions in Wokwi
+
+**TOOLS USED**
+
+Wokwi Online Simulator
+Blynk IoT Platform
+
+
