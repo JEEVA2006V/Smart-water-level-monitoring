@@ -10,8 +10,7 @@ Design a system using an ultrasonic sensor and Arduino to detect and alert water
 2.Ultrasonic Sensor (HC-SR04)  
 3.16x2 LCD Display with I2C module  
 4. 3 LEDs (green, yellow, red)  
-5.Buzzer  
-6.Breadboard and jumper wires  
+5.Breadboard and jumper wires  
 
 **WORKING**
 
