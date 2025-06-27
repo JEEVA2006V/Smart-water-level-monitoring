@@ -21,7 +21,7 @@ The ultrasonic sensor continuously measures the distance between the sensor and 
 -> Red LED and buzzer activate → High water level (tank full alert)  
 -> The current water level status is also displayed on the LCD screen.
 
-This system provides both visual (LEDs and LCD) and audio (buzzer) feedback for monitoring tank water levels.
+This system provides **both visual (LEDs and LCD) and audio (buzzer) feedback for monitoring tank water levels**.
 
 **WHAT I LEARNED**
 
