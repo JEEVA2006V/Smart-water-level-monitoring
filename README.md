@@ -14,8 +14,8 @@ Design a system using an ultrasonic sensor and Arduino to detect and alert water
 
 **CIRCUIT DIAGRAM**
 
+![image](https://github.com/user-attachments/assets/cb10bb96-f86d-4b97-9b4c-fb5011c9b501)
 
-![image](https://github.com/user-attachments/assets/a5986327-8c61-403d-9225-c02d4be789df)
 
 **WORKING**
 
