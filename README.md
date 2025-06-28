@@ -13,8 +13,9 @@ Design a system using an ultrasonic sensor and Arduino to detect and alert water
 5.Breadboard and jumper wires 
 
 **CIRCUIT DIAGRAM**
-![image](https://github.com/user-attachments/assets/119d9a28-373d-41c0-9c48-f65ea0713938)
 
+
+![image](https://github.com/user-attachments/assets/a5986327-8c61-403d-9225-c02d4be789df)
 
 **WORKING**
 
