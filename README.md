@@ -10,7 +10,11 @@ Design a system using an ultrasonic sensor and Arduino to detect and alert water
 2.Ultrasonic Sensor (HC-SR04)  
 3.16x2 LCD Display with I2C module  
 4. 3 LEDs (green, yellow, red)  
-5.Breadboard and jumper wires  
+5.Breadboard and jumper wires 
+
+**CIRCUIT DIAGRAM**
+![image](https://github.com/user-attachments/assets/119d9a28-373d-41c0-9c48-f65ea0713938)
+
 
 **WORKING**
 
@@ -22,6 +26,7 @@ The ultrasonic sensor continuously measures the distance between the sensor and 
 -> The current water level status is also displayed on the LCD screen.
 
 This system provides **both visual (LEDs and LCD) and audio (buzzer) feedback for monitoring tank water levels**.
+
 
 **WHAT I LEARNED**
 
