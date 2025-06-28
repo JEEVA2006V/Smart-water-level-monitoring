@@ -38,8 +38,10 @@ This system provides **both visual (LEDs and LCD) and audio (buzzer) feedback fo
 
 **TOOLS USED**
 
-Wokwi Online Simulator
+- Wokwi – for circuit simulation   
+- GitHub – for project hosting
 
-Blynk IoT Platform
+
+
 
 
